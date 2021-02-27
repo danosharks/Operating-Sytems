@@ -1,1 +1,1 @@
-# Operating-Sytems
+# Operating-Sytems One fucntion of Windows Home 10 is the ability to display a file managment system. This function is important in that it shows the user files, documents, photos, videos, and any other multi-media in a categorized and easily retrievable way.
