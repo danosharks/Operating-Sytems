@@ -1,1 +1,2 @@
-# Operating-Sytems One fucntion of Windows Home 10 is the ability to display a file managment system. This function is important in that it shows the user files, documents, photos, videos, and any other multi-media in a categorized and easily retrievable way.
+# Operating-Sytems One function of Windows Home 10 is the ability to display a file managment system. This function is important in that it shows the user files, documents, photos, videos, and any other multi-media in a categorized and easily retrievable way.
+Another important function of Windows Home 10 is the task bar. Intead of going into the start menu the user can pin their most important apps on the task bar for easy launch.
